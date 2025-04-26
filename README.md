@@ -1,4 +1,5 @@
 📊 Customer Sentiment Analysis – iPhone 15 128GB
+
 📌 Project Overview
 This project focuses on analyzing customer sentiment for the iPhone 15 128GB model on Flipkart.
 The main objective is to extract customer reviews, perform sentiment analysis, identify key product strengths and weaknesses, and visualize overall customer perceptions.
